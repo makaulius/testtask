@@ -46,7 +46,7 @@
                 </div>
 
                 <div
-                class="order-now fixed left-0 bottom-0 w-full bg-white pt-4 pb-4 px-0 transition-transform duration-300 ease-in-out transform translate-y-full"
+                class="order-now fixed left-0 bottom-0 w-full bg-white pt-4 pb-4 px-0 transition-transform duration-300 ease-in-out transform translate-y-full z-10"
                 :class="{
                     'translate-y-0 pointer-events-auto shadow-[0_0px_16px_0px_rgba(0,0,0,0.1)]': isActive,
                     'translate-y-full pointer-events-none': !isActive
