@@ -88,7 +88,7 @@
         @endif
 
         <h2 class="mt-16 mb-10 width-1-2 text-center">Users love our plan</h2>
-        <div class="flex w-full gap-4">
+        <div class="flex flex-wrap w-full gap-4">
             <div class="width-auto p-4 bg-white shadow-md rounded-lg"></div>
             <div class="width-auto p-4 bg-white shadow-md rounded-lg"></div>
             <div class="width-auto p-4 bg-white shadow-md rounded-lg"></div>
